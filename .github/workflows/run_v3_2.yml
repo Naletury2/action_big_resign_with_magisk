@@ -1,4 +1,4 @@
-name: resign_v3
+name: resign_v3_2
 
 on:
   workflow_dispatch:
